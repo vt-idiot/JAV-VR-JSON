@@ -20,3 +20,5 @@ I probably screwed up the image links or left a quotation mark unescaped and jus
 No
 ## But my JAVfu is in it...
 **No**
+## Cool, I started doing the same thing too. Can I contribute?
+Sure, open a pull request.
