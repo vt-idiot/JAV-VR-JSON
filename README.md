@@ -1,6 +1,6 @@
 # JAV-VR-JSON
 ## JAV Metadata Bundles for XBVR
-### WIP
+### WIP - _where were you when R18 was kil?_
 
 # FAQ
 1. What is this?
