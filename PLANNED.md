@@ -1,9 +1,10 @@
 # a list of scenes I'll add whenever
 the further down the list, the less likely I'll ever get around to it
 
+* [MTVR-037](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/MTVR/MTVR-037.json)
+* [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
 * KIVR-028
 * PRDVR-048
-* MTVR-037
 * VRKM-664
 * PRDVR-050
 * 3DSVR-1163
@@ -22,7 +23,6 @@ the further down the list, the less likely I'll ever get around to it
 * WAVR-244
 * HUNVR-152
 * PPVR-032
-* [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
 * BUZ-001
 * WVR8-006
 * AQUCO-005
