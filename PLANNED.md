@@ -13,17 +13,17 @@ the further down the list, the less likely I'll ever get around to it
 * [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
 * [SAVR-189](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-189.json)
 * [TMAVR-168](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/TMAVR/TMAVR-168.json)
+* [VRKM-664](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/VRKM/VRKM-664.json)
+* [VRKM-669](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/VRKM/VRKM-669.json)
 * [VRKM-681](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/VRKM/VRKM-681.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
 
 
 ## whenever...
 * KIVR-028
-* VRKM-664
 * 3DSVR-1163
 * WAVR-249
 * WAVR-247
-* VRKM-669
 * KIWVR-212
 * COSVR-013
 * PXVR-063
