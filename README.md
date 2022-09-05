@@ -3,15 +3,12 @@
 ### WIP - _where were you when R18 was kil?_
 
 # FAQ
-1. What is this?
-Cooming stuff
-2. Why did you do this?
-Why not
-3. How did you do this?
-Yes
-4. Why not write your own scraper?
-Do I look like I know how to do that?
-5. How do I use these? If you have to ask...
+1. What is this? Cooming stuff
+2. Why did you do this? Why not
+3. How did you do this? Yes
+4. Where is the data from? Usually from DMM -> DeepL. If Afesta has data for a scene and I remember to check it, I'll use that.
+5. Why not write your own scraper? Do I look like I know how to do that?
+6. How do I use these? If you have to ask...
 
 ![image](https://user-images.githubusercontent.com/81622808/187829141-451b325a-d8a9-471b-932f-da200d01bbe0.png)
 
@@ -26,7 +23,7 @@ Like that.
 
 # Issues
 ## I added one of your bundles and it broke XBVR! I can't go past that scene in the Web UI!
-I probably screwed up the image links or left a quotation mark unescaped and just manually corrected it in main.db. Open an issue and tell me which scene it was and I'll fix it. Re-importing the bundle after that will unbork the Web UI.
+I probably screwed up the image links or left a quotation mark unescaped and just manually corrected it in main.db. Open an issue and tell me which scene it was and I'll fix it. Re-importing the fixed bundle with the "Overwrite existing data" option enabled should unbork the Web UI without requiring you to manually edit main.db.
 ## Can you add x, y, or z scene?
 No
 ## But my JAVfu is in it...
