@@ -3,12 +3,15 @@ the further down the list, the less likely I'll ever get around to it
 
 ## completed
 * [CRVR-130](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/CRVR/CRVR-130.json)
+* [GOPJ-361](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-361.json)
+* [GOPJ-420](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-420.json)
 * [MTVR-037](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/MTVR/MTVR-037.json)
 * [PPVR-032](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PPVR/PPVR-032.json)
 * [PPVR-033](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PPVR/PPVR-033.json)
 * [PRDVR-048](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-048.json)
 * [PRDVR-050](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-050.json)
 * [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
+* [SAVR-189](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-189.json)
 * [TMAVR-168](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/TMAVR/TMAVR-168.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
 
@@ -21,7 +24,6 @@ the further down the list, the less likely I'll ever get around to it
 * VRKM-681
 * WAVR-247
 * VRKM-669
-* SAVR-189
 * KIWVR-212
 * COSVR-013
 * PXVR-063
@@ -35,9 +37,7 @@ the further down the list, the less likely I'll ever get around to it
 * IPVR-184
 * JUVR-146
 * OYCVR-091
-* GOPJ-420
 * URVRSP-069
-* GOPJ-361
 * NHVR-157
 * CRVR-191
 * CRVR-266
