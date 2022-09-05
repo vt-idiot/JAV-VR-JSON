@@ -9,6 +9,7 @@ the further down the list, the less likely I'll ever get around to it
 * [PRDVR-048](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-048.json)
 * [PRDVR-050](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-050.json)
 * [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
+* [TMAVR-168](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/TMAVR/TMAVR-168.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
 
 
@@ -16,7 +17,6 @@ the further down the list, the less likely I'll ever get around to it
 * KIVR-028
 * VRKM-664
 * 3DSVR-1163
-* TMAVR-168
 * WAVR-249
 * VRKM-681
 * WAVR-247
