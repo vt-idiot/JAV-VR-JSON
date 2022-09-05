@@ -2,6 +2,7 @@
 the further down the list, the less likely I'll ever get around to it
 
 ## completed
+* [CRVR-130](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/CRVR/CRVR-130.json)
 * [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
 * [MTVR-037](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/MTVR/MTVR-037.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
@@ -35,7 +36,6 @@ the further down the list, the less likely I'll ever get around to it
 * OYCVR-091
 * GOPJ-420
 * URVRSP-069
-* CRVR-130
 * GOPJ-361
 * NHVR-157
 * CRVR-191
