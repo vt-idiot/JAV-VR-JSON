@@ -3,17 +3,19 @@ the further down the list, the less likely I'll ever get around to it
 
 ## completed
 * [CRVR-130](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/CRVR/CRVR-130.json)
-* [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
 * [MTVR-037](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/MTVR/MTVR-037.json)
+* [PPVR-032](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PPVR/PPVR-032.json)
+* [PPVR-033](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PPVR/PPVR-033.json)
+* [PRDVR-048](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-048.json)
+* [PRDVR-050](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PRDVR%20%5BPrestige%20%22PRVR%22%5D/PRDVR-050.json)
+* [SAVR-187](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/SAVR/SAVR-187.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
+
 
 ## whenever...
 * KIVR-028
-* PRDVR-048
 * VRKM-664
-* PRDVR-050
 * 3DSVR-1163
-* PPVR-033
 * TMAVR-168
 * WAVR-249
 * VRKM-681
@@ -27,7 +29,6 @@ the further down the list, the less likely I'll ever get around to it
 * COSVR-018
 * WAVR-244
 * HUNVR-152
-* PPVR-032
 * BUZ-001
 * WVR8-006
 * AQUCO-005
