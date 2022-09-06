@@ -2,6 +2,7 @@
 the further down the list, the less likely I'll ever get around to it
 
 ## completed
+* [3DSVR-1163](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/3DSVR/3DSVR-1163.json)
 * [CRVR-130](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/CRVR/CRVR-130.json)
 * [GOPJ-361](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-361.json)
 * [GOPJ-420](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-420.json)
@@ -23,7 +24,6 @@ the further down the list, the less likely I'll ever get around to it
 
 ## whenever...
 * KIVR-028
-* 3DSVR-1163
 * WAVR-249
 * WAVR-247
 * KIWVR-212
