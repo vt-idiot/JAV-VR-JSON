@@ -46,7 +46,7 @@
    "release_date_text": "2022-06-10",
    "cover_url": "https://pics.dmm.co.jp/digital/video/juvr00146/juvr00146pl.jpg",
    "scene_url": "http://dmm.co.jp/digital/videoa/-/detail/=/cid=juvr00146/",
-   "is_multipart": false,
+   "is_multipart": true,
    "star_rating": 0,
    "favourite": false,
    "watchlist": false,
