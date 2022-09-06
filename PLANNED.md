@@ -6,6 +6,7 @@ the further down the list, the less likely I'll ever get around to it
 * [CRVR-130](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/CRVR/CRVR-130.json)
 * [GOPJ-361](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-361.json)
 * [GOPJ-420](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/GOPJ/GOPJ-420.json)
+* [JUVR-146](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/JUVR/JUVR-146.json)
 * [KIVR-028](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/KIVR/KIVR-028.json)
 * [MTVR-037](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/MTVR/MTVR-037.json)
 * [PPVR-032](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/PPVR/PPVR-032.json)
@@ -35,7 +36,6 @@ the further down the list, the less likely I'll ever get around to it
 * WVR8-006
 * AQUCO-005
 * IPVR-184
-* JUVR-146
 * OYCVR-091
 * URVRSP-069
 * NHVR-157
