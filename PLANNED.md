@@ -23,6 +23,7 @@ the further down the list, the less likely I'll ever get around to it
 * [VRKM-681](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/VRKM/VRKM-681.json)
 * [WAVR-244](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-244.json)
 * [WAVR-245](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-245.json)
+* [WAVR-249](https://github.com/vt-idiot/JAV-VR-JSON/blob/main/WAVR/WAVR-249.json)
 
 
 ## whenever...
